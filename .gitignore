@@ -1,0 +1,24 @@
+# Rust
+target/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Node
+node_modules/
+
+# Environment
+.env
+
+# Nix
+.direnv/
+.result
+
+# Editors
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
